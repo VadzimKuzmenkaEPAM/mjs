@@ -1,7 +1,7 @@
 1 qq --
 2 ee ==
-3 rr
-4 tt
+3 rrrr
+4 tttt
 5 aa //
 6 ss ..
 7 dd
